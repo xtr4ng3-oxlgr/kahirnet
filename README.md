@@ -1,5 +1,5 @@
 # KAHIRNET
-
+![CMake](https://github.com/xtr4ng3-oxlgr/kahirnet/actions/workflows/cmake.yml/badge.svg)
 <img width="1672" height="941" alt="Kahirnet" src="https://github.com/user-attachments/assets/3fc15ce3-284c-4e9f-bc5e-007a68ca60a7" />
 
 
