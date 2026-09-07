@@ -1,5 +1,8 @@
 # KAHIRNET
 
+<img width="1672" height="941" alt="Kahirnet" src="https://github.com/user-attachments/assets/3fc15ce3-284c-4e9f-bc5e-007a68ca60a7" />
+
+
 Reconocimiento de red local autorizado. Descubre hosts alcanzables,
 encuentra puertos TCP abiertos, captura banners de servicio y — la parte
 que la vuelve más que un port scanner — explica en lenguaje llano cuáles
@@ -97,5 +100,8 @@ explotable ahora mismo.
 
 
 ## Licencia
+
+<img width="300" height="159" alt="xtr4ng3" src="https://github.com/user-attachments/assets/d779c370-abfa-4f57-aa1d-a9306e6a3f1c" />
+
 
 MIT · xtr4ng3
